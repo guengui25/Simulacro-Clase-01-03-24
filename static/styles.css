@@ -1,0 +1,25 @@
+body{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  size-adjust: auto;
+}
+
+.Layout{
+  display: flex;
+  flex-direction: column;
+
+  
+
+  flex-wrap: wrap;
+  background: fixed;
+  background-color: aqua;
+  text-align: center;
+  border: 0in;
+}
+
+.AddPost{
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+}
